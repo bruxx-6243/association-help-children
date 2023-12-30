@@ -7,6 +7,10 @@ export default {
         center: true,
         padding: "1rem",
       },
+
+      fontFamily: {
+        poppins: "var(--fn-poppins)",
+      },
     },
   },
   plugins: [require("daisyui")],
